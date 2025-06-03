@@ -14,7 +14,7 @@
 <p align="center">
   <img src="https://github.com/Nathan17reunion/PyDSAS_Reunion_Island/blob/main/images/univ_reunion.png" alt="Logo 5" width="180"/>
   <img src="https://github.com/Nathan17reunion/PyDSAS_Reunion_Island/blob/main/images/fac_sciences_univ_reunion.png" alt="Logo 6" width="180"/>
-  <img src="https://raw.githubusercontent.com/Nathan17reunion/PyDSAS_Reunion_Island/main/images/images.jpg" alt="Logo 6" width="200"/>
+  <img src="https://raw.githubusercontent.com/Nathan17reunion/PyDSAS_Reunion_Island/main/images/images.jpg" alt="Logo 6" width="100"/>
   <img src="https://raw.githubusercontent.com/Nathan17reunion/PyDSAS_Reunion_Island/main/images/Sans%20titre-1.png" alt="Logo 6" width="180"/>
 </p>
 
@@ -22,7 +22,10 @@
 
 🌍 As part of the **ERASMUS+** exchange program, I have the opportunity to study between Madagascar and La Réunion, which greatly enriches my academic and intercultural experience.
 
-![Logo 4](https://raw.githubusercontent.com/Nathan17reunion/PyDSAS_Reunion_Island/main/images/Sans%20titre.jpg)![Logo 5](https://github.com/Nathan17reunion/PyDSAS_Reunion_Island/blob/main/images/univ_tana.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nathan17reunion/PyDSAS_Reunion_Island/main/images/Sans%20titre.jpg" alt="Logo 4" width="180"/>
+  <img src="https://github.com/Nathan17reunion/PyDSAS_Reunion_Island/blob/main/images/univ_tana.png" alt="Logo 5" width="180"/>
+</p>
 
 🎓 I am originally from Madagascar and currently a second-year Master’s student in Earth Physics, specializing in [**Geophysics, Environment, and Remote Sensing**](http://ioga.univ-antananarivo.mg/) at the Institute and Observatory of Geophysics of Antananarivo – University of Antananarivo.
 
