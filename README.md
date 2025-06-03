@@ -12,7 +12,7 @@
 
 <p align="center">The workflow involves extracting the shoreline, validating it, and then performing statistical analysis with the DSAS model. Although DSAS now offers a standalone version that does not require installation as an ArcGIS plugin, I cannot use it because my system does not meet the Windows requirements for DSAS and ArcGIS Pro Desktop. While it is possible to run DSAS on Linux using Wine, the available DSAS_6.0.170_mac.dmg file is not compatible with Linux systems. Therefore, I developed a custom script called PyDSAS to overcome these limitations.</p>
 
-<p align="center">At this stage, I do not yet have sufficient expertise to fully validate the reliability of the statistical results obtained. However, the outcomes derived from my shoreline data are consistent with statistical values reported in previous studies. My work is grounded on authoritative sources such as reports from BRGM, the Littoral Observatory of La Réunion, CEREMA, and theses focusing on coastal dynamics and geomorphology of La Réunion.</p>
+<p align="center">At this stage, I do not yet have sufficient expertise to fully validate the reliability of the statistical results obtained. However, the outcomes derived from my shoreline data are consistent with statistical values reported in previous studies. My work is grounded on authoritative sources such as reports from BRGM, the Littoral Observatory of Reunion, CEREMA, and theses focusing on coastal dynamics and geomorphology of La Réunion.</p>
 
 # Shoreline
 
