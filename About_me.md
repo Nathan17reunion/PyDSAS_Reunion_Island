@@ -1,13 +1,13 @@
 ![Bannière LinkedIn](https://raw.githubusercontent.com/Nathan17reunion/PyDSAS_Reunion_Island/main/images/Banni%C3%A8re%20LinkedIn%20professionnel%20moderne%20marketing%20orange%20noir.png)
 
-👋 HELLO & WELCOME!
+<p align="center">***👋 HELLO & WELCOME!***</p>
 
 🌍 I am passionate about Earth sciences and tropical environments, with a special interest in:
 🛰️ remote sensing, 🚜 agriculture, 🌋 seismology, 🌊 oceanography, 🏖️ beaches and coral reefs, 🏝️ coastal geomorphology, ⚠️ natural hazards, 🤝 volunteering, 🐍 Python programming, 📊 data analysis with R, 💧 hydrology, and much more!
 
 ![Logo 2](https://raw.githubusercontent.com/Nathan17reunion/PyDSAS_Reunion_Island/main/images/MYXJ_20250308154044195_fast(1).jpg)
 
-### Jonathan Rayan Rower MITANTSOA NY HAJA HARILALA
+<p align="center">***Jonathan Rayan Rower MITANTSOA NY HAJA HARILALA***</p>
 
 ![Logo 1](https://raw.githubusercontent.com/Nathan17reunion/PyDSAS_Reunion_Island/main/images/images.jpg)![Logo 3](https://raw.githubusercontent.com/Nathan17reunion/PyDSAS_Reunion_Island/main/images/Sans%20titre-1.png) 
 
@@ -24,7 +24,7 @@ My project involves detecting the coastline of La Réunion using a time series o
 The final presentation will take place on June 18, 2025, in the OSU-Réunion conference room.
 
 💻 At the beginning of my studies, I was not very comfortable with programming.
-However, I have already contributed to a Python-based project studying the seismotectonics of the East African Rift, collaborating on preliminary measurements using seismic data from the USGS catalog and the Harvard CMT.
+However, I have already contributed to a Python-based project studying the seismotectonics of the East African Rift System, collaborating on preliminary measurements using seismic data from the [**USGS**](https://earthquake.usgs.gov/earthquakes/search/) catalog and the [**Harvard CMT**](https://www.globalcmt.org/).
 
 🚀 Today, I am fully engaged in a large-scale project.
 Although I sometimes felt uncertain due to the complexity of the tasks, I have demonstrated autonomy and perseverance.
@@ -39,3 +39,5 @@ Nevertheless, I am confident that I will succeed in progressing thanks to my ada
 
 🎯 This ERASMUS program marks the beginning of my career, and I do not let obstacles or difficulties stop me.
 I am determined to achieve my goals: successfully complete my academic training 🎓 and seize professional opportunities that will allow me to fully showcase my skills.
+
+<p align="center">***Thank you for visiting my git!***</p>
