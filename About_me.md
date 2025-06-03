@@ -5,16 +5,18 @@
 <p align="center">🌍 I am passionate about Earth sciences and tropical environments, with a special interest in:
 🛰️ remote sensing, 🚜 agriculture, 🌋 seismology, 🌊 oceanography, 🏖️ beaches and coral reefs, 🏝️ coastal geomorphology, ⚠️ natural hazards, 🤝 volunteering, 🐍 Python programming, 📊 data analysis with R, 💧 hydrology, and much more!</p>
 
-![Logo 2](https://raw.githubusercontent.com/Nathan17reunion/PyDSAS_Reunion_Island/main/images/MYXJ_20250308154044195_fast(1).jpg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nathan17reunion/PyDSAS_Reunion_Island/main/images/MYXJ_20250308154044195_fast(1).jpg" alt="Logo 5" width="300"/>
+</p>
 
 <p align="center">***Jonathan Rayan Rower MITANTSOA NY HAJA HARILALA***</p>
 
 <p align="center">
   <img src="https://github.com/Nathan17reunion/PyDSAS_Reunion_Island/blob/main/images/univ_reunion.png" alt="Logo 5" width="180"/>
   <img src="https://github.com/Nathan17reunion/PyDSAS_Reunion_Island/blob/main/images/fac_sciences_univ_reunion.png" alt="Logo 6" width="180"/>
+  <img src="https://raw.githubusercontent.com/Nathan17reunion/PyDSAS_Reunion_Island/main/images/images.jpg" alt="Logo 6" width="200"/>
+  <img src="https://raw.githubusercontent.com/Nathan17reunion/PyDSAS_Reunion_Island/main/images/Sans%20titre-1.png" alt="Logo 6" width="180"/>
 </p>
-![Logo 1](https://raw.githubusercontent.com/Nathan17reunion/PyDSAS_Reunion_Island/main/images/images.jpg)![Logo 3](https://raw.githubusercontent.com/Nathan17reunion/PyDSAS_Reunion_Island/main/images/Sans%20titre-1.png) 
-
 
 🎓 **Graduate student at the University of Reunion**, currently pursuing a Master’s degree in Natural Resources and Natural Hazards in Tropical Environments, with a specialization in [**Geomatics and Remote Sensing**](https://georezo.net/wiki/formation/master_teledetect).
 
