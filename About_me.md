@@ -24,7 +24,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Nathan17reunion/PyDSAS_Reunion_Island/main/images/Sans%20titre.jpg" alt="Logo 4" width="180"/>
-  <img src="https://github.com/Nathan17reunion/PyDSAS_Reunion_Island/blob/main/images/univ_tana.png" alt="Logo 5" width="180"/>
+  <img src="https://github.com/Nathan17reunion/PyDSAS_Reunion_Island/blob/main/images/univ_tana.png" alt="Logo 5" width="70"/>
 </p>
 
 <p align="center">🎓 I am originally from Madagascar and currently a second-year Master’s student in Earth Physics, specializing in [**Geophysics, Environment, and Remote Sensing**](http://ioga.univ-antananarivo.mg/) at the Institute and Observatory of Geophysics of Antananarivo – University of Antananarivo.</p>
