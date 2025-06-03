@@ -1,5 +1,7 @@
 <p align="center">***PyDSAS_Reunion_Island***</p>
 
+<p align="center">**Jonathan Rayan Rower MITANTSOA NY HAJA HARILALA**</p>
+
 
 This project aims not only to analyze coastal dynamics but also to validate the shoreline positions obtained through automatic detection using the SAET tool.
 
