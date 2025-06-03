@@ -1,8 +1,8 @@
-# PyDSAS_Reunion_Island
+## PyDSAS_Reunion_Island
 
 Cet projet n'est pas uniquement pour avoir analyser la cinématique du plage mais aussi de valider les trait de côte après avoir faire une détection automatique avec l'outil SAET.
 
-En plus il faut avoir les trait de côte, puis valider et enfin passer à la statistique du modèle DSAS. Pourquoi je n'utilise pas l'outil DSAS qui a une version autonome maintenant pas besoin d'installer sous forme de plugins dans ArcGIS? Parce que je n'ai pas du système windows conforme au installation du DSAS et ArcGIS Pro Desktop. Il y a un autre moyen d'utiliser avec wine sous linux mais il y a un fichier DSAS_6.0.170_mac.dmg qui n'est pas adapter pour le système linux donc je recours à une création de script PyDSAS.
+En plus il faut avoir les trait de côte, puis valider et enfin passer à la statistique du modèle DSAS. Pourquoi je n'utilise pas l'outil DSAS qui a une version autonome maintenant pas besoin d'installer sous forme de plugins dans ArcGIS? Parce que je n'ai pas du système windows conforme au installation du DSAS et ArcGIS Pro Desktop. Il y a un autre moyen d'utiliser avec wine sous linux mais il y a un fichier DSAS_6.0.170_mac.dmg qui n'est pas adapter pour le système linux donc je recours à une création de script **PyDSAS**.
 
 Pour le monment je n'ai pas d'assez de connaissance pour prouver la fiabilité de ce résultats de statistique que j'ai obtenues mais les résultats d'après issus de mes traits de côte obtenues à conforme à tous les valeurs statistique que les recherche antérieurs à utiliser. Je suis bassées sur des rapports de BRGM, Observation de littorale de la réunion, CEREMA et des thèse sur la dynamique côtière et la géomorphologie littorale de la réunion.
 
