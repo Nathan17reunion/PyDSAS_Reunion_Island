@@ -2,8 +2,8 @@
 
 <p align="center">***👋 HELLO & WELCOME!***</p>
 
-🌍 I am passionate about Earth sciences and tropical environments, with a special interest in:
-🛰️ remote sensing, 🚜 agriculture, 🌋 seismology, 🌊 oceanography, 🏖️ beaches and coral reefs, 🏝️ coastal geomorphology, ⚠️ natural hazards, 🤝 volunteering, 🐍 Python programming, 📊 data analysis with R, 💧 hydrology, and much more!
+<p align="center">🌍 I am passionate about Earth sciences and tropical environments, with a special interest in:
+🛰️ remote sensing, 🚜 agriculture, 🌋 seismology, 🌊 oceanography, 🏖️ beaches and coral reefs, 🏝️ coastal geomorphology, ⚠️ natural hazards, 🤝 volunteering, 🐍 Python programming, 📊 data analysis with R, 💧 hydrology, and much more!</p>
 
 ![Logo 2](https://raw.githubusercontent.com/Nathan17reunion/PyDSAS_Reunion_Island/main/images/MYXJ_20250308154044195_fast(1).jpg)
 
