@@ -2,6 +2,7 @@
 
 <p align="center">**Jonathan Rayan Rower MITANTSOA NY HAJA HARILALA**</p>
 
+<p align="center"> 🎓 🌍 🛰️ 🌊 🏖️ 🐍 💧 💻  🌐 📄 📚 🎯 🤝 </p>
 
 This project aims not only to analyze coastal dynamics but also to validate the shoreline positions obtained through automatic detection using the SAET tool.
 
