@@ -1,0 +1,13 @@
+flowchart TD
+    root["(base_path)"]
+    input_data["input_data/"]
+    sds["sds/"]
+    boundary_reunion["boundary_reunion/"]
+    aux_data["aux_data/"]
+    output_data["output_data/"]
+
+    root --> input_data
+    input_data --> sds
+    input_data --> boundary_reunion
+    root --> aux_data
+    root --> output_data
