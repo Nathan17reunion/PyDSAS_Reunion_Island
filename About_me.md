@@ -1,4 +1,4 @@
-![Bannière LinkedIn](images/Bannière LinkedIn professionnel moderne marketing%20orange noir.png)
+![Bannière LinkedIn](images/Bannière LinkedIn professionnel moderne marketing orange noir.png)
 
 # Jonathan Rayan Rower MITANTSOA NY HAJA HARILALA
 
