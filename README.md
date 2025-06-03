@@ -1,5 +1,9 @@
 <p align="center">***PyDSAS_Reunion_Island***</p>
 
+<p align="center">***👋 HELLO & WELCOME!***</p>
+
+![Bannière LinkedIn](https://raw.githubusercontent.com/Nathan17reunion/PyDSAS_Reunion_Island/main/images/Banni%C3%A8re%20LinkedIn%20professionnel%20moderne%20marketing%20orange%20noir.png)
+
 <p align="center">**Jonathan Rayan Rower MITANTSOA NY HAJA HARILALA**</p>
 
 <p align="center"> 🎓 🌍 🛰️ 🌊 🏖️ 🐍 💧 💻  🌐 📄 📚 🎯 🤝 </p>
