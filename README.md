@@ -7,14 +7,10 @@ Voici une explication brève pour la création des sous dossier utile pour le sc
 - **aux_data** : dossier contenant les unités des cellules hydrosédimentaires  
 - **output_data** : dossier pour les résultats générés par les scripts  
 
+```mermaid
 flowchart TD
     root --> input_data
     input_data --> sds
     input_data --> boundary_reunion
     root --> aux_data
     root --> output_data
-
-
-
-
-
