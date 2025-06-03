@@ -11,7 +11,7 @@
 
 ![Logo 1](https://raw.githubusercontent.com/Nathan17reunion/PyDSAS_Reunion_Island/main/images/images.jpg)![Logo 3](https://raw.githubusercontent.com/Nathan17reunion/PyDSAS_Reunion_Island/main/images/Sans%20titre-1.png) 
 
-🎓 **Graduate student at the University of La Réunion**, currently pursuing a Master’s degree in Natural Resources and Natural Hazards in Tropical Environments, with a specialization in [**Geomatics and Remote Sensing**](https://georezo.net/wiki/formation/master_teledetect).
+🎓 **Graduate student at the University of Reunion**, currently pursuing a Master’s degree in Natural Resources and Natural Hazards in Tropical Environments, with a specialization in [**Geomatics and Remote Sensing**](https://georezo.net/wiki/formation/master_teledetect).
 
 🌍 As part of the **ERASMUS+** exchange program, I have the opportunity to study between Madagascar and La Réunion, which greatly enriches my academic and intercultural experience.
 
