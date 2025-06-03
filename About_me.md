@@ -1,3 +1,5 @@
+![Bannière LinkedIn](images/Bannière LinkedIn professionnel moderne marketing%20orange noir.png)
+
 # Jonathan Rayan Rower MITANTSOA NY HAJA HARILALA
 
 Je suis étudiant de l'Université de La Réunion en formation Ressources et Risques Naturels des Environnement Tropicaux parcours **géomatique et télédétection**. Plus précisement, je suis en programme d'échange **ERASMUS +** de Madagascar et La Réunion. 
