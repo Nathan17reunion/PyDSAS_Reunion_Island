@@ -17,7 +17,8 @@ For the results included in my report, I used the outputs directly obtained from
 
 # Rédaction du rapport de mémoire
 
-Il y a un fichier sous forme de pdf appellé référence bibliographique qui contient tous les instruction que j'utilise pendant les rédanction de mon mémoire. C'est un fichier en général contient un référence bibliographique que j'ai déjà utilisé mais il y a des instruction nécessaire pour une collaboration à la valorisation de ma rédaction de mon mémoire. 
+Il y a un fichier sous forme de pdf qui contient tous les instruction que j'utilise pendant les rédanction de mon mémoire en cliquant [**ici**](https://github.com/Nathan17reunion/Extraction-Kinematik_shoreline/raw/main/references_2025_MITANTSOA.pdf) pour télécharger ou d'utiliser ce QR code suivant. C'est un fichier en général contient un référence bibliographique que j'ai déjà utilisé mais il y a des instruction nécessaire pour une collaboration à la valorisation de ma rédaction de mon mémoire. 
+
 
 # Cinématique du plage
 
