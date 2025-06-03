@@ -3,12 +3,12 @@
 Voici une explication brève pour la création des sous dossier utile pour le script principale
 
 ```mermaid
-flowchart TD
-root --> input_data
-input_data --> sds
-input_data --> boundary_reunion
-root --> aux_data
-root --> output_data
+    flowchart TD
+    root --> input_data
+    input_data --> sds
+    input_data --> boundary_reunion
+    root --> aux_data
+    root --> output_data
 
 
 - **sds** : dossier pour stocker les fichiers shapefile du trait de côte (.dbf, .shp, .cpg, .prj, .shx, optionnel .qmd)  
