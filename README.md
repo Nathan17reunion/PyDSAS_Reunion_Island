@@ -40,6 +40,7 @@ flowchart TD
     input_data --> boundary_reunion
     root --> aux_data
     root --> output_data
+undefined
 
 <p align="center">***STAGIAIROTON_MTD_2025***</p>
 
