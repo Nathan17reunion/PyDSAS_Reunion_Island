@@ -24,7 +24,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Nathan17reunion/PyDSAS_Reunion_Island/main/images/Sans%20titre.jpg" alt="Logo 4" width="180"/>
-  <img src="https://github.com/Nathan17reunion/PyDSAS_Reunion_Island/blob/main/images/univ_tana.png" alt="Logo 5" width="70"/>
+  <img src="https://github.com/Nathan17reunion/PyDSAS_Reunion_Island/blob/main/images/univ_tana.png" alt="Logo 5" width="90"/>
 </p>
 
 <p align="center">🎓 I am originally from Madagascar and currently a second-year Master’s student in Earth Physics, specializing in [**Geophysics, Environment, and Remote Sensing**](http://ioga.univ-antananarivo.mg/) at the Institute and Observatory of Geophysics of Antananarivo – University of Antananarivo.</p>
@@ -33,8 +33,10 @@
 My project involves detecting the coastline of La Réunion using a time series of Sentinel-2 satellite images.
 The final presentation will take place on June 18, 2025, in the OSU-Réunion conference room.</p>
 
-<p align="center">💻 At the beginning of my studies, I was not very comfortable with programming.
-However, I have already contributed to a Python-based project studying the seismotectonics of the East African Rift System, collaborating on preliminary measurements using seismic data from the [**USGS**](https://earthquake.usgs.gov/earthquakes/search/) catalog and the [**Harvard CMT**](https://www.globalcmt.org/).</p>
+<p align="center">
+💻 At the beginning of my studies, I was not very comfortable with programming. However, I have already contributed to a Python-based project studying the seismotectonics of the East African Rift System, collaborating on preliminary measurements using seismic data from the [**USGS**](https://earthquake.usgs.gov/earthquakes/search/) catalog and the [**Harvard CMT**](https://www.globalcmt.org/).
+</p>
+
 
 <p align="center">🚀 Today, I am fully engaged in a large-scale project.
 Although I sometimes felt uncertain due to the complexity of the tasks, I have demonstrated autonomy and perseverance.
