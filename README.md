@@ -1,17 +1,19 @@
-## PyDSAS_Reunion_Island
+<p align="center">***PyDSAS_Reunion_Island***</p>
 
-Cet projet n'est pas uniquement pour avoir analyser la cinématique du plage mais aussi de valider les trait de côte après avoir faire une détection automatique avec l'outil SAET.
 
-En plus il faut avoir les trait de côte, puis valider et enfin passer à la statistique du modèle DSAS. Pourquoi je n'utilise pas l'outil DSAS qui a une version autonome maintenant pas besoin d'installer sous forme de plugins dans ArcGIS? Parce que je n'ai pas du système windows conforme au installation du DSAS et ArcGIS Pro Desktop. Il y a un autre moyen d'utiliser avec wine sous linux mais il y a un fichier DSAS_6.0.170_mac.dmg qui n'est pas adapter pour le système linux donc je recours à une création de script **PyDSAS**.
+This project aims not only to analyze coastal dynamics but also to validate the shoreline positions obtained through automatic detection using the SAET tool.
 
-Pour le monment je n'ai pas d'assez de connaissance pour prouver la fiabilité de ce résultats de statistique que j'ai obtenues mais les résultats d'après issus de mes traits de côte obtenues à conforme à tous les valeurs statistique que les recherche antérieurs à utiliser. Je suis bassées sur des rapports de BRGM, Observation de littorale de la réunion, CEREMA et des thèse sur la dynamique côtière et la géomorphologie littorale de la réunion.
+The workflow involves extracting the shoreline, validating it, and then performing statistical analysis with the DSAS model. Although DSAS now offers a standalone version that does not require installation as an ArcGIS plugin, I cannot use it because my system does not meet the Windows requirements for DSAS and ArcGIS Pro Desktop. While it is possible to run DSAS on Linux using Wine, the available DSAS_6.0.170_mac.dmg file is not compatible with Linux systems. Therefore, I developed a custom script called PyDSAS to overcome these limitations.
 
-# TDC
+At this stage, I do not yet have sufficient expertise to fully validate the reliability of the statistical results obtained. However, the outcomes derived from my shoreline data are consistent with statistical values reported in previous studies. My work is grounded on authoritative sources such as reports from BRGM, the Littoral Observatory of La Réunion, CEREMA, and theses focusing on coastal dynamics and geomorphology of La Réunion.
 
-Pour le trait de côte j'ai mis dans un fichier mes trait de côte fusionnée pour une série temporelle d'image de 2016 à 2025 appellé fusion_trait_de_cote.shp
-Vous pouvez touver ici aussi le script de test de combinaison des indices que j'inpiré par le script SAET mais pour le moment je n'obtient du resultat. C'est pour un travail de créer un script d'automatisation du détection du trait de côte par utilisation de combinaison d'indices et la seuillage par tatônnement.
+# Shoreline
 
-Mais pour les résultas inclus dans ma rédaction, j'ai utilisé les résultat obtenus par le test directement de l'outil SAET (Shoreline Automatic Extraction Tool) pour chaque unité morphologique de la littorale réunionnaise.
+For the shoreline, I have compiled my merged shoreline data for a time series of images from 2016 to 2025 into a file named fusion_trait_de_cote.shp.
+
+You can also find here a test script for combining indices, inspired by the SAET tool. However, at this stage, I have not yet obtained conclusive results. This work aims to develop an automated shoreline detection script by combining multiple indices and applying thresholding through iterative adjustment.
+
+For the results included in my report, I used the outputs directly obtained from the SAET (Shoreline Automatic Extraction Tool) for each morphological unit of the Reunion Island coastline.
 
 # Rédaction du rapport de mémoire
 
