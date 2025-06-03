@@ -9,7 +9,11 @@
 
 <p align="center">***Jonathan Rayan Rower MITANTSOA NY HAJA HARILALA***</p>
 
-![Logo 5](https://github.com/Nathan17reunion/PyDSAS_Reunion_Island/blob/main/images/univ_reunion.png)![Logo 6](https://github.com/Nathan17reunion/PyDSAS_Reunion_Island/blob/main/images/fac_sciences_univ_reunion.png)![Logo 1](https://raw.githubusercontent.com/Nathan17reunion/PyDSAS_Reunion_Island/main/images/images.jpg)![Logo 3](https://raw.githubusercontent.com/Nathan17reunion/PyDSAS_Reunion_Island/main/images/Sans%20titre-1.png) 
+<p align="center">
+  <img src="https://github.com/Nathan17reunion/PyDSAS_Reunion_Island/blob/main/images/univ_reunion.png" alt="Logo 5" width="80"/>
+  <img src="https://github.com/Nathan17reunion/PyDSAS_Reunion_Island/blob/main/images/fac_sciences_univ_reunion.png" alt="Logo 6" width="80"/>
+</p>
+![Logo 1](https://raw.githubusercontent.com/Nathan17reunion/PyDSAS_Reunion_Island/main/images/images.jpg)![Logo 3](https://raw.githubusercontent.com/Nathan17reunion/PyDSAS_Reunion_Island/main/images/Sans%20titre-1.png) 
 
 
 🎓 **Graduate student at the University of Reunion**, currently pursuing a Master’s degree in Natural Resources and Natural Hazards in Tropical Environments, with a specialization in [**Geomatics and Remote Sensing**](https://georezo.net/wiki/formation/master_teledetect).
