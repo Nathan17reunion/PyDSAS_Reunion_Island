@@ -40,3 +40,10 @@ flowchart TD
     input_data --> boundary_reunion
     root --> aux_data
     root --> output_data
+
+<p align="center">***STAGIAIROTON_MTD_2025***</p>
+
+![Logo 1](https://github.com/Nathan17reunion/PyDSAS_Reunion_Island/blob/main/images/1.png)
+![Logo 2](https://github.com/Nathan17reunion/PyDSAS_Reunion_Island/blob/main/images/2.png)
+![Logo 3](https://github.com/Nathan17reunion/PyDSAS_Reunion_Island/blob/main/images/3.png)
+![Logo 4](https://github.com/Nathan17reunion/PyDSAS_Reunion_Island/blob/main/images/4.png)
