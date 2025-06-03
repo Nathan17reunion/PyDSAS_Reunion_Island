@@ -11,7 +11,7 @@ At this stage, I do not yet have sufficient expertise to fully validate the reli
 
 For the shoreline, I have compiled my merged shoreline data for a time series of images from 2016 to 2025 into a file named fusion_trait_de_cote.shp.
 
-You can also find here a test script for combining indices, inspired by the SAET tool. However, at this stage, I have not yet obtained conclusive results. This work aims to develop an automated shoreline detection script by combining multiple indices and applying thresholding through iterative adjustment.
+You can also find here a test script for combining indices, inspired by the [**SAET**](https://github.com/jpalomav/SAET_master) tool. However, at this stage, I have not yet obtained conclusive results. This work aims to develop an automated shoreline detection script by combining multiple indices and applying thresholding through iterative adjustment.
 
 For the results included in my report, I used the outputs directly obtained from the SAET (Shoreline Automatic Extraction Tool) for each morphological unit of the Reunion Island coastline.
 
