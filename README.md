@@ -4,19 +4,19 @@
 
 <p align="center"> 🎓 🌍 🛰️ 🌊 🏖️ 🐍 💧 💻  🌐 📄 📚 🎯 🤝 </p>
 
-This project aims not only to analyze coastal dynamics but also to validate the shoreline positions obtained through automatic detection using the SAET tool.
+<p align="center">This project aims not only to analyze coastal dynamics but also to validate the shoreline positions obtained through automatic detection using the SAET tool.</p>
 
-The workflow involves extracting the shoreline, validating it, and then performing statistical analysis with the DSAS model. Although DSAS now offers a standalone version that does not require installation as an ArcGIS plugin, I cannot use it because my system does not meet the Windows requirements for DSAS and ArcGIS Pro Desktop. While it is possible to run DSAS on Linux using Wine, the available DSAS_6.0.170_mac.dmg file is not compatible with Linux systems. Therefore, I developed a custom script called PyDSAS to overcome these limitations.
+<p align="center">The workflow involves extracting the shoreline, validating it, and then performing statistical analysis with the DSAS model. Although DSAS now offers a standalone version that does not require installation as an ArcGIS plugin, I cannot use it because my system does not meet the Windows requirements for DSAS and ArcGIS Pro Desktop. While it is possible to run DSAS on Linux using Wine, the available DSAS_6.0.170_mac.dmg file is not compatible with Linux systems. Therefore, I developed a custom script called PyDSAS to overcome these limitations.</p>
 
-At this stage, I do not yet have sufficient expertise to fully validate the reliability of the statistical results obtained. However, the outcomes derived from my shoreline data are consistent with statistical values reported in previous studies. My work is grounded on authoritative sources such as reports from BRGM, the Littoral Observatory of La Réunion, CEREMA, and theses focusing on coastal dynamics and geomorphology of La Réunion.
+<p align="center">At this stage, I do not yet have sufficient expertise to fully validate the reliability of the statistical results obtained. However, the outcomes derived from my shoreline data are consistent with statistical values reported in previous studies. My work is grounded on authoritative sources such as reports from BRGM, the Littoral Observatory of La Réunion, CEREMA, and theses focusing on coastal dynamics and geomorphology of La Réunion.</p>
 
 # Shoreline
 
-For the shoreline, I have compiled my merged shoreline data for a time series of images from 2016 to 2025 into a file named fusion_trait_de_cote.shp.
+<p align="center">For the shoreline, I have compiled my merged shoreline data for a time series of images from 2016 to 2025 into a file named fusion_trait_de_cote.shp.</p>
 
 You can also find here a test script for combining indices, inspired by the [**SAET**](https://github.com/jpalomav/SAET_master) tool. However, at this stage, I have not yet obtained conclusive results. This work aims to develop an automated shoreline detection script by combining multiple indices and applying thresholding through iterative adjustment.
 
-For the results included in my report, I used the outputs directly obtained from the SAET (Shoreline Automatic Extraction Tool) for each morphological unit of the Reunion Island coastline.
+<p align="center">For the results included in my report, I used the outputs directly obtained from the SAET (Shoreline Automatic Extraction Tool) for each morphological unit of the Reunion Island coastline.</p>
 
 # Report Writing Guidelines
 
@@ -24,12 +24,11 @@ A PDF document containing all the guidelines I followed while writing my thesis 
 
 You can also access it by scanning the QR code available [**here**](https://github.com/Nathan17reunion/PyDSAS_Reunion_Island/blob/main/qr_code_bibliography.png).
 
-This document primarily serves as a comprehensive bibliography of sources I have used, but it also contains essential guidelines for collaborating on and improving my report.
-
+<p align="center">This document primarily serves as a comprehensive bibliography of sources I have used, but it also contains essential guidelines for collaborating on and improving my report.</p>
 
 # Coastal Kinematics
 
-This section provides a brief explanation of the subfolders essential for the main script that calculates statistical models using DSAS.
+<p align="center">This section provides a brief explanation of the subfolders essential for the main script that calculates statistical models using DSAS.</p>
 
 - **sds** : Folder to store shoreline shapefiles (.dbf, .shp, .cpg, .prj, .shx, optionally .qmd) 
 - **boundary_reunion** : Folder containing the coastal boundary of Reunion  
