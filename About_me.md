@@ -58,6 +58,6 @@ I am determined to achieve my goals: successfully complete my academic training 
 > 📞 +262 693 81 23 59  
 > 
 >  <a href="https://www.facebook.com/profile.php?id=61571394063716">
->   <img src="https://img.freepik.com/psd-gratuit/conception-du-logo-medias-sociaux_23-2151296987.jpg?semt=ais_hybrid&w=740" alt="Facebook" width="20" />
+>   <img src="https://img.freepik.com/psd-gratuit/conception-du-logo-medias-sociaux_23-2151296987.jpg?semt=ais_hybrid&w=740" alt="Facebook" width="28" />
 >   Jonathan Rayan Rower
 > </a>
