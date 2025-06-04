@@ -52,9 +52,12 @@ I am determined to achieve my goals: successfully complete my academic training 
 <p align="center">***Thank you for visiting my git!***</p>
 
 > ### **Contact**
-> Cité Internationale   
+> 🏠 Cité Internationale   
 > 97490 Saint-Denis La Réunion (France)  
-> [jrayan.mitantsoanyhaja@gmail.com](mailto:jrayan.mitantsoanyhaja@gmail.com) ✉️  
-> +262 693 81 23 59  
+> ✉️ [jrayan.mitantsoanyhaja@gmail.com](mailto:jrayan.mitantsoanyhaja@gmail.com)   
+> 📞 +262 693 81 23 59  
 > 
-> [![Facebook](https://img.freepik.com/psd-gratuit/conception-du-logo-medias-sociaux_23-2151296987.jpg?semt=ais_hybrid&w=740)](https://www.facebook.com/profile.php?id=61571394063716)](Jonathan Rayan Rower)
+> > <a href="https://www.facebook.com/profile.php?id=61571394063716">
+>   <img src="https://img.freepik.com/psd-gratuit/conception-du-logo-medias-sociaux_23-2151296987.jpg?semt=ais_hybrid&w=740" alt="Facebook" width="20" />
+>   Jonathan Rayan Rower
+> </a>
