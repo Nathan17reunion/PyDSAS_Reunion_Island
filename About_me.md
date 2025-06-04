@@ -54,7 +54,8 @@ I am determined to achieve my goals: successfully complete my academic training 
 > ### **Contact**
 > 🏠 Cité Internationale   
 > 97490 Saint-Denis La Réunion (France)  
-> ✉️ [jrayan.mitantsoanyhaja@gmail.com](mailto:jrayan.mitantsoanyhaja@gmail.com)   
+> ✉️ [jrayan.mitantsoanyhaja@gmail.com](mailto:jrayan.mitantsoanyhaja@gmail.com)
+>   
 > 📞 +262 693 81 23 59  
 > 
 >  <a href="https://www.facebook.com/profile.php?id=61571394063716">
